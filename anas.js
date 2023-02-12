@@ -1,7 +1,6 @@
 (function () {
   let screen = document.querySelector(".screen");
   let buttons = document.querySelectorAll(".btn");
-  console.log(screen);
   let equal = document.querySelector(".btn-equal");
   let clear = document.querySelector(".btn-clear");
 
