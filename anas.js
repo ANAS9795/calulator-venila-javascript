@@ -22,5 +22,6 @@
       let answer = eval(screen.value);
       screen.value = answer;
     }
+    console.log("a");
   });
 })();
